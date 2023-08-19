@@ -1,0 +1,4 @@
+Options -Indexes
+ErrorDocument 404 /index.php?component=404
+ErrorDocument 403 /index.php?component=404
+php_flag log_errors Off
